@@ -1,0 +1,140 @@
+.retailers {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    flex-basis: 20%;
+    padding: 1%;
+    background-color: royalblue;
+    margin:1%;
+    /* border: 1px solid black; */
+    font-family:  Arial, Helvetica, sans-serif;
+    /* align-content: center; */
+    justify-content: space-evenly;
+    padding: 20px 10px 20px 10px;
+    border-radius: 3px; 
+    /* margin: 5px;  */
+}
+
+
+.retailer_item {
+    display: flex;
+  
+
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-basis: 20%;
+    padding: 1%;
+    
+    margin:1%;
+    /* border: 1px solid black; */
+    font-family:  Arial, Helvetica, sans-serif;
+    justify-content: space-evenly;
+    padding: 20px 10px 20px 10px;
+    border-radius: 3px; 
+    /* margin: 5px;  */
+}
+
+
+.retailer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-basis: 20%;
+    padding: 1%;
+    background-color: darkcyan;
+    margin:1%;
+    /* border: 1px solid black; */
+    font-family:  Arial, Helvetica, sans-serif;
+    justify-content: space-evenly;
+    padding: 20px 10px 20px 10px;
+    border-radius: 3px; 
+    /* margin: 5px;  */
+    /* border: 1px solid;
+    padding: 10px; */
+    /* box-shadow: 2px 2px #888888; */
+
+    /* background: #fff;
+    border-radius: 2px;
+    display: block;
+    float: left;
+    height: 150px;
+    margin: 1rem;
+    position: relative;
+    width: 150px; */
+ 
+    -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    -moz-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    -ms-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    -o-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+
+}
+/* 
+https://www.google.com/search?q=css+box+shadows&sxsrf=ACYBGNSuL8IyrfJmYWDOV4e6Ys1_9xExDA:1578719199259&tbm=isch&source=iu&ictx=1&fir=LeXQgYybOp1KYM%253A%252CIkQr-b3pw-92uM%252C%252Fxc%252F%252Fm%252F015tjh%253Abox%2520shadow@en&vet=1&usg=AI4_-kQ16xyx20xLy5mVRxpqx_LPPFxZWQ&sa=X&ved=2ahUKEwipnsmo4_rmAhVHT98KHRUuC4wQ_h0wE3oECAsQBA&biw=1396&bih=657#imgrc=XDVYPg-17prkJM:&vet=1 */
+
+
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .5em;
+    font-weight: bold;
+    color: white; 
+    text-align: left;
+    /* text-shadow: cadetblue; */
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 4px darkblue;
+    /* text-shadow: 2px 2px 4px #000000; */
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .75em;
+    font-weight: bold;
+    color: white; 
+    text-align: center;
+    /* text-shadow: cadetblue; */
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 4px darkblue;
+    /* text-shadow: 2px 2px 4px #000000; */
+}
+ h2 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: .5em;
+        font-weight: bold;
+        color: white; 
+        text-align: center;
+        text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 4px darkblue;
+
+ }
+
+
+ h2:hover {
+          position: relative; 
+          top: -3px; 
+          left: -3px; 
+          text-shadow: 1px 1px blueviolet, 
+                       2px 2px blueviolet, 
+                       3px 3px blueviolet, 
+                       4px 4px blueviolet, 
+                       5px 5px blueviolet, 
+                       6px 6px blueviolet;
+       }
+
+
+ .employee__name?? {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: white; 
+    text-align: center;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 4px darkblue;
+
+}
+
+.emp__age, .employee__computer, .employee__department, .employee__location, .cust__rate, .customer__rate, .cust__contrLength, .cust__manager  {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .5em;
+    font-weight: bold;
+    color: white; 
+    text-align: center;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 4px darkblue;
+
+}

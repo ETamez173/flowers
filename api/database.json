@@ -1,0 +1,149 @@
+{
+    
+    "flowers": [
+        {
+            "id": 1,
+           "flowerName": "Rose",
+           "flowerColor": "Red"
+            
+
+        },
+       
+        {
+            "id": 2,
+           "flowerName": "Rose",
+           "flowerColor": "Red"
+            
+
+        },
+        {
+            "id": 3,
+           "flowerName": "Rose",
+           "flowerColor": "Red"
+            
+
+        },
+        {
+            "id": 4,
+           "flowerName": "Rose",
+           "flowerColor": "Red"
+            
+
+        },
+        {
+            "id": 5,
+           "flowerName": "Rose",
+           "flowerColor": "Red"
+
+        }
+    ],
+        
+     "retailers": [
+
+                {      
+                   "id": 1,
+                   "RetailerName": "Cash and Carry Flowers",
+                   "Address": "123 Main",
+                   "City": "Smyrna",
+                   "State": "TN",
+                   "Zipcode": "37139"
+        
+                },
+                {
+                
+                    "id": 2,
+                    "RetailerName": "Wither Me Not Flowers",
+                    "Address": "300 River Road",
+                    "City": "Murfreesboro",
+                    "State": "TN",
+                    "Zipcode": "37129"
+         
+                 },
+                 {
+                
+                    "id": 3,
+                    "RetailerName": "Flowers Say I Love You!",
+                    "Address": "600 Forgetme Not Ave.",
+                    "City": "Mt Juliet",
+                    "State": "TN",
+                    "Zipcode": "37140"
+         
+                 },
+                 {
+                
+                    "id": 4,
+                    "RetailerName": "Real Men Love Flowers Too!",
+                    "Address": "100 Lilly Maiden Ave",
+                    "City": "Nashville",
+                    "State": "TN",
+                    "Zipcode": "37160"
+         
+                 },
+                 {
+                
+                    "id": 5,
+                    "RetailerName": "Cheeper By The Dozen Flowers",
+                    "Address": "15 Penny Lane",
+                    "City": "Franklin",
+                    "State": "TN",
+                    "Zipcode": "37139"
+         
+                 }
+            ],
+
+     "distributors": [
+         
+        {      
+            "id": 1,
+            "DistributorName": "Best Value Flower Distribution, Inc.",
+            "Address": "10 Top Shelf Ave",
+            "City": "Knoxville",
+            "State": "TN",
+            "Zipcode": "37139"
+ 
+         },
+         {
+         
+             "id": 2,
+             "DistributorName": "Betty's Super Fast Flowers and Candy",
+             "Address": "1000 Federal Express Lane",
+             "City": "Chatannooga",
+             "State": "TN",
+             "Zipcode": "37129"
+  
+          },
+          {
+         
+             "id": 3,
+             "DistributorName": "Flowers USA, Inc",
+             "Address": "975 Patriot Ave.",
+             "City": "Mt Juliet",
+             "State": "TN",
+             "Zipcode": "37140"
+  
+          },
+          {
+         
+             "id": 4,
+             "DistributorName": "Bushes, Flowers, and Trees, Inc.",
+             "Address": "735 Sunny Valley",
+             "City": "Bell Buckle",
+             "State": "TN",
+             "Zipcode": "37160"
+  
+          },
+          {
+         
+             "id": 5,
+             "DistributorName": "Flowers Wholesale, Inc.",
+             "Address": "1111 Rosybush Lane",
+             "City": "Brentwood",
+             "State": "TN",
+             "Zipcode": "37139"
+  
+          }
+     ]
+     
+}
+
+
